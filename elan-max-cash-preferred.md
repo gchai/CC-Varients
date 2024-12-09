@@ -12,11 +12,13 @@ The [Elan Max Cash Preferred card](https://www.elanfinancialservices.com/credit-
 This list is not exhaustive. The rabbit hole goes pretty deep. It seems like you can just change the 5 digits at the end of the URL to find a new card
 https://creditcardlearnmore.com/11t3/max-cash?ecdma-lc=25019
 
+You can find other cards from the original source [here](https://ficoforums.myfico.com/t5/Credit-Cards/Elan-quot-Max-Cash-quot-vs-US-Bank-Cash/m-p/6198797#M1757564)
+
+
 ### Current cards
 
 | **Name**                                                   | **applicationUrl**                                                         | **Image**                                                                                                                                                 |
 |------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Fulton Bank Visa Max Cash Preferred**                    | Local Only                                                                 | <img src="https://www.fultonbank.com/-/media/Feature/Teaser/Card-CTA-Images/Credit-Card-Images/FFC_Web_CreditCards_VisaSignature_2023.png" width="250px"> |
 | **Associated Bank Visa Max Cash Preferred**                | [Apply Here](https://creditcardlearnmore.com/11t3/max-cash?ecdma-lc=15302) | <img src="https://www.associatedbank.com/images/max_cash_credit_card.png" width="250px">                                                                  |
 | **Associated Bank Brewers Visa Max Cash Preferred**        | [Apply Here](https://creditcardlearnmore.com/11t3/max-cash?ecdma-lc=15333) | <img src="images/elan-ab-brewers.png" width="250px">                                                                                                      |
 | **Workers Credit Union Max Cash Preferred**                | [Apply Here](https://creditcardlearnmore.com/11t3/max-cash?ecdma-lc=33336) | <img src="images/elan-wcu.png" width="250px">                                                                                                             |
