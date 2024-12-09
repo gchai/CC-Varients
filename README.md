@@ -1,7 +1,7 @@
 # Credit card varients
 
 This repo currently tracks the following cards:
-* [BofA Customized Cash Rewards](bofa-affinity-cards)
+* [BofA Customized Cash Rewards](bofa-affinity-cards.md)
     * This card can give up to 5.25% cashback (with [Preferred Rewards](https://promotions.bankofamerica.com/preferredrewards/en)) on up to 2.5k spend per quarter for the [following categories](https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/cash-back-category-choices/):
         * Gas & EV Charging Stations
         * Online Shopping
